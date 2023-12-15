@@ -105,7 +105,7 @@ The project consists two application. The first one accepts inputs from the user
 
 <a href="https://www.linkedin.com/in/henok-solomon-a3b537206"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://medium.com/@heneyr24"><img align="left" 
-src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/>
+src="https://medium.com/@heneyr24/sepsis-prediction-as-negative-positive-in-docker-a68c453ff71e" alt="Yu Shi | Medium" width="21px"/>
 </a>
 
 ##
